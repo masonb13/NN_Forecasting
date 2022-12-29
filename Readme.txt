@@ -10,3 +10,5 @@ choose a constant # epochs, # hidden layers, # prediction values, etc.
 Compare the losses and graphs of predictions.
 
 NN->RNN->LSTM->Transformers
+
+try different optimization andd loss functions
