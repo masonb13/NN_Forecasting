@@ -24,3 +24,6 @@ things to change:
     hiddenSize
 
 problems: normalization
+
+only using the 4 week ahead predition as the output to train on works much better
+don't use 2010 as training year because it sucks
