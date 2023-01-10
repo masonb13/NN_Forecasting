@@ -22,3 +22,5 @@ fixed things:
 things to change:
     numLayers
     hiddenSize
+
+problems: normalization
