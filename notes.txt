@@ -33,3 +33,21 @@ multivariate data:
     cases -
     deaths
     hospitalizations
+
+try transformer
+try 4 different models for each week in the future
+
+loss_fn = Weighted Interval Score
+needs a density over each prediction interval (look in github)
+
+cdf of RNN? use residual normally distributed possibly
+reguliser
+hospitalizations doesn't go back before 2020! Yay!
+
+
+next steps:
+begin forecasting weekly hospitalizations
+use the data in the git repo
+figure out confidence interval
+for sanity, start with national data
+variables: hospitalizations, deaths, ILI
